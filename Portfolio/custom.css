@@ -1,0 +1,117 @@
+/* .responsive-img {
+    width:100%;
+    height: 100%;
+    
+} */
+
+#logo {
+    width: 40px;
+    margin-top: 10px;
+    margin-left:10px;
+}
+
+#parallax1 {
+    height: 600px;
+}
+
+#parallax2 {
+    height: 650px;
+}
+
+  #fotoelena {
+      width: 300px;
+      /* margin-top: 50px;
+      margin-left: 100px; */
+      /* border: 4px solid black; */
+      /* text-align: center; */   
+  }
+
+  #boton {
+      margin-top: 50px;
+      background-color: #b33574;
+  }
+  .nav-wrapper{
+      background-color: black;
+  }
+  .section black {
+      height: 100%;
+  }
+
+  h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: black;
+    
+    /* text-align: center; */
+    /* font-weight: normal; */
+  }
+
+  #sub {
+    color:black;
+    /* font-size: 20px; */
+  }
+
+
+  
+
+  #gris {
+    /* background-color: rgba(182,174,172,0.5); */
+    margin-top: 20px;
+    border: 0px solid green; 
+    width:40%; 
+    margin-left:0px; 
+    text-align:center;
+    
+}
+
+#fot {
+    margin-top: 30px;
+    border: 0px solid blue; 
+    width:40%; 
+    margin-left:0px; 
+    text-align:center;
+}
+
+  a {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: normal;
+    
+  }
+
+  .card {
+      border-radius: 10em;
+  }
+
+  p {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    font-size: 20px;
+  }
+  span {
+      color:#b33574;
+      font-weight: bold;
+  }
+
+
+
+
+h2 {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+}
+
+span.card-title {
+    color: black;
+}
+
+#me {
+  
+    border: 0px solid red;
+    /*Flex*/
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* align-content: center; */
+}
